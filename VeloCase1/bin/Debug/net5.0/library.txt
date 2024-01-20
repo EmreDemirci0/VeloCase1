@@ -1,0 +1,6 @@
+Emre,Emre,emre,2,0
+Dogan,dogan,emre,2,0
+Fareler ve Insanlar,Fahremen,TR124,3,0
+Emre,Demirci,124,3,0
+bvb,bb,b,1,0
+ali,alial,ali,1,0

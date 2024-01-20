@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\VeloCase1.exe
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\VeloCase1.deps.json
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\VeloCase1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\VeloCase1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\VeloCase1.dll
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\ref\VeloCase1.dll
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\bin\Debug\net5.0\VeloCase1.pdb
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.dll
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\ref\VeloCase1.dll
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.pdb
+C:\Users\Lenovo\source\repos\VeloCase1\VeloCase1\obj\Debug\net5.0\VeloCase1.genruntimeconfig.cache
